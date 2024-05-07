@@ -1,4 +1,4 @@
-# Stock-Market-Anaylsis-Final-Project
+# Stock-Market-Analysis-Final-Project
 
 In this Final Project, I explored a CSV datafile containing stock market data between the years of 2008-2023 for: Apple, Amazon, Meta, and Tesla. My analysis aimed to conduct an analysis of stock market presence of these companies and some major aspects of their stock including: relevance, volatility, current market standings, and peaks/valleys in stock price. In order to conduct this analysis, I formed my project on the following questions: 
 
